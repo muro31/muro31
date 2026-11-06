@@ -2,8 +2,6 @@
 
 I work across research, software engineering, blockchain analysis, financial investigation, security analysis, and project delivery. Written down, that reads as six jobs. In practice it is one, because the questions worth spending time on rarely stay inside a single one of them.
 
-Website: [treephan.com](https://treephan.com)
-
 ## Courses
 
 Each course links to the issuer's own verify page. The certificate files are in [`certificates/`](certificates/).
